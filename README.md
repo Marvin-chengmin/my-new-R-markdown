@@ -1,3 +1,3 @@
 # my-new-R-markdown
 
-[HTML file](https://github.com/Marvin-chengmin/my-new-R-markdown/blob/master/My_New_RMarkdown.html)
+[HTML file](https://marvin-chengmin.github.io/my-new-R-markdown/My_New_RMarkdown.html)
